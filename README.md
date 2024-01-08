@@ -11,3 +11,5 @@ LinkedIn ->> [LinkedIn](https://www.linkedin.com/in/hitarth-shah-full/)
 
 Youtube ->> [Youtube](https://youtube.com/classytechno)
 
+![hitarthsh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hitarthsh&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+
