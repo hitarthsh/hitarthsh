@@ -17,7 +17,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ---
 
-# 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -50,11 +50,11 @@ I'm an indie full-stack developer and content creator building my version of the
 
 <br>
 
-# 🤝 Connect with Me
+## 🤝 Connect with Me
 
 Let's connect and collaborate! Feel free to reach out to me on:
 
-![LinkedIn] ->> LinkedIn
+![LinkedIn] ->> (https://www.linkedin.com/in/hitarth-shah-full/)
 
 ![Medium] ->> Medium
 
