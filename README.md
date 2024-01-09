@@ -28,8 +28,6 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
-
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 
 
@@ -37,7 +35,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
-### 📺 Latest YouTube Videos
+<!-- ### 📺 Latest YouTube Videos -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- [![Why "Debugging" ??](https://ytcards.demolab.com/?id=m1OiF7oBKy4&title=Why+%22Debugging%22+%3F%3F&lang=en&timestamp=1704711644&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=58 "Why \"Debugging\" ??")](https://www.youtube.com/watch?v=m1OiF7oBKy4)
@@ -48,7 +46,18 @@ I'm an indie full-stack developer and content creator building my version of the
 [![These Coding Projects Will Set You Apart as a Programmer (w/ Instructions Included)](https://ytcards.demolab.com/?id=8XVI_Zrvz3c&title=These+Coding+Projects+Will+Set+You+Apart+as+a+Programmer+%28w%2F+Instructions+Included%29&lang=en&timestamp=1701357302&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1268 "These Coding Projects Will Set You Apart as a Programmer (w/ Instructions Included)")](https://www.youtube.com/watch?v=8XVI_Zrvz3c) -->
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/classytechno?sub_confirmation=1)
+
+<br>
+
+### 🤝 Connect with Me
+
+Let's connect and collaborate! Feel free to reach out to me on:
+
+LinkedIn ->> LinkedIn
+
+Medium ->> Medium
+
 
 #
 
