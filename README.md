@@ -1,6 +1,6 @@
 # Hello, I'm Hitarth Shah👋
 
-Welcome to my GitHub profile! I'm Hitarth Shah, Working as Reat.js Developer.
+Welcome to my GitHub profile! I'm Hitarth Shah, Working as a Reat.js Developer.
 
 
 ## 🤝 Connect with Me
