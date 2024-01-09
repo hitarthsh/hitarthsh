@@ -54,12 +54,11 @@ I'm an indie full-stack developer and content creator building my version of the
 
 Let's connect and collaborate! Feel free to reach out to me on:
 
-LinkedIn ->> LinkedIn
+![LinkedIn] ->> LinkedIn
 
-Medium ->> Medium
+![Medium] ->> Medium
 
 
-#
 
 ## 📊 Stats
 
