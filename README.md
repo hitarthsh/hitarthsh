@@ -44,7 +44,7 @@
 
 <br>
 
- ![Snake animation](https://github.com/hitarthsh/hitarthsh/blob/main/dist/github-contribution-grid-dark.svg)
+ ![Snake animation](https://github.com/hitarthsh/hitarthsh/blob/main/dist/github-contribution-grid-snake.svg)
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
