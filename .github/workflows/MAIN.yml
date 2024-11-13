@@ -3,13 +3,12 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *"  # This runs the action daily at midnight
-  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: hitarthsh
+      - name: Checkout
         uses: actions/checkout@v2
       - name: Generate Snake Animation
         uses: Platane/snk@v2
