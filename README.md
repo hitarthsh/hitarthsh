@@ -44,7 +44,7 @@
 
 <br>
 
- ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/hitarthsh/hitarthsh/blob/output/github-contribution-grid-snake.svg)
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
