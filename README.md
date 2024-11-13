@@ -42,6 +42,10 @@
 <br/>
 <hr/>
 
+<br>
+
+ ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
