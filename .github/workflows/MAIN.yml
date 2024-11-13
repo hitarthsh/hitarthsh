@@ -8,7 +8,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: hitarthsh
         uses: actions/checkout@v2
       - name: Generate Snake Animation
         uses: Platane/snk@v2
