@@ -57,7 +57,7 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V2161NBI' target='_blank'><img height='54' style='border:1px;color:green;height:64px;' src='https://ko-fi.com/img/githubbutton_sm.svg' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/V7V2161NBI' target='_blank'><img height='54' style='border:1px;color:green;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 </div>
 
