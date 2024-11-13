@@ -41,3 +41,24 @@
 
 <br/>
 <hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=hitarthsh&theme=react&hide_border=false" alt="readme ststs"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=hitarthsh&theme=react&show_icons=true&hide_border=false&count_private=true" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitarthsh&theme=react&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
