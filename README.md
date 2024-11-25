@@ -67,9 +67,9 @@
 <br/>
 
 <div align="center">
-<!-- <a href=' https://github.com/sponsors/hitarthsh' target='_blank'><img height='54' style='border:1px;color:green;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> -->
+<a href='https://github.com/sponsors/hitarthsh' target='_blank'><img height='54' style='border:1px;color:green;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-<a href='https://github.com/sponsors/hitarthsh' target='_blank'> Buy me a coffer</a>
+<!-- <a href='https://github.com/sponsors/hitarthsh' target='_blank'> Buy me a coffer</a> -->
 </div>
 
 <br/>
