@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Full Stack**
+ 🌱 I’m currently learning **Full Stack development**
 
 🔭 I’m currently working on **a marketplace**
 
