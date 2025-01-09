@@ -56,9 +56,13 @@
 <br>
 <div align=center>
     
-![readme stats](https://github-readme-streak-stats.herokuapp.com/?user=hitarthsh&theme=react&hide_border=false)
-<img width=475 src="https://github-readme-stats.vercel.app/api?username=hitarthsh&theme=react&show_icons=true&hide_border=false&count_private=true" alt="readme stats" /><br>
-<img width=475 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitarthsh&theme=react&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
+![hitarthsh's Stats](https://github-readme-stats.vercel.app/api?username=hitarthsh&theme=react&show_icons=true&hide_border=false&count_private=true&card_width=350_height=350)
+
+![hitarthsh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hitarthsh&theme=react&show_icons=true&hide_border=false&count_private=true&card_width=350_height=350)
+
+![hitarthsh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hitarthsh&theme=react&show_icons=true&hide_border=false&layout=compact&card_width=350_height=350)
+
+
 
 </div>
 
