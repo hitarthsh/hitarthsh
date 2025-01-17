@@ -60,13 +60,8 @@
 
 ![hitarthsh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hitarthsh&theme=react&show_icons=true&hide_border=false&count_private=true&card_width=350)
 
-![hitarthsh's Top Languages Compact](https://github-readme-stats.vercel.app/api/top-langs/?username=hitarthsh&theme=react&show_icons=true&hide_border=false&layout=compact&card_width=350)
-
-
 
 </div>
-
-<br/><br/>
 
 <hr/>
 
