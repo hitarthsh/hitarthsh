@@ -10,12 +10,6 @@
  
  🌱 I’m currently learning **Full Stack development**
 
-🔭 I’m currently working on **a marketplace**
-
-💬 Ask me about **React, Node.js... or anything [here](https://github.com/hitarthsh/hitarthsh)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
  </div>
 
  <div align="center"> 
@@ -32,12 +26,18 @@
 
  <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,python,react,figma" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,nodejs,firebase,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,python,react,sass,npm" /><br> <!-- Languages -->
 </div>
+
+<h2 align="center">⚒️ Frameworks & Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,figma,vscode,github,git,nodejs,firebase,wordpress,mysql,notion,discord,gatsby,linux,md" /><br> <!-- Frameworks & Tools -->
+</div>
+
 
 <br/>
 <hr/>
