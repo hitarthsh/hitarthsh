@@ -29,13 +29,13 @@
 <h2 align="center">⚒️ Languages ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,python,react,sass,npm" /><br> <!-- Languages -->
+    <img src="https://skillicons.dev/icons?i=css,html,javascript,jquery,npm,python,react,sass" /><br> <!-- Languages -->
 </div>
 
 <h2 align="center">⚒️ Frameworks & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,figma,vscode,github,git,nodejs,firebase,wordpress,mysql,notion,discord,gatsby,linux,md" /><br> <!-- Frameworks & Tools -->
+   <img src="https://skillicons.dev/icons?i=bootstrap,discord,figma,firebase,gatsby,git,github,linux,md,mysql,notion,nodejs,tailwind,vscode,wordpress" /><br> <!-- Frameworks & Tools -->
 </div>
 
 
