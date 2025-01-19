@@ -56,9 +56,9 @@
 <br>
 <div align=center>
     
-![hitarthsh's Stats](https://github-readme-stats.vercel.app/api?username=hitarthsh&theme=react&show_icons=true&hide_border=false&count_private=true&card_width=350)
+![hitarthsh's Stats](https://github-readme-stats.vercel.app/api?username=hitarthsh&theme=react&show_icons=true&hide_border=false&count_private=true)
 
-![hitarthsh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hitarthsh&theme=react&show_icons=true&hide_border=false&count_private=true&card_width=350)
+![hitarthsh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hitarthsh&theme=react&show_icons=true&hide_border=false&layout=compact)
 
 
 </div>
