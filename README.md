@@ -26,17 +26,17 @@
   </div>
   
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-    <div style="background: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-      <p style="margin: 0; font-weight: bold;">🌱 Currently Learning</p>
-      <p style="margin: 5px 0 0 0; color: #666;">Advanced Full Stack Development</p>
+    <div style="background: linear-gradient(45deg, #2d3748, #4a5568); padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.1);">
+      <p style="margin: 0; font-weight: bold; color: white;">🌱 Currently Learning</p>
+      <p style="margin: 5px 0 0 0; color: #e2e8f0;">Advanced Full Stack Development</p>
     </div>
-    <div style="background: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-      <p style="margin: 0; font-weight: bold;">💡 Always Exploring</p>
-      <p style="margin: 5px 0 0 0; color: #666;">New Technologies & Frameworks</p>
+    <div style="background: linear-gradient(45deg, #2d3748, #4a5568); padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.1);">
+      <p style="margin: 0; font-weight: bold; color: white;">💡 Always Exploring</p>
+      <p style="margin: 5px 0 0 0; color: #e2e8f0;">New Technologies & Frameworks</p>
     </div>
-    <div style="background: #f8f9fa; padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-      <p style="margin: 0; font-weight: bold;">🚀 Passionate About</p>
-      <p style="margin: 5px 0 0 0; color: #666;">Scalable & User-Friendly Apps</p>
+    <div style="background: linear-gradient(45deg, #2d3748, #4a5568); padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.1);">
+      <p style="margin: 0; font-weight: bold; color: white;">🚀 Passionate About</p>
+      <p style="margin: 5px 0 0 0; color: #e2e8f0;">Scalable & User-Friendly Apps</p>
     </div>
   </div>
 </div>
@@ -73,16 +73,29 @@
   
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 20px 0; box-shadow: 0 10px 40px rgba(0,0,0,0.1);">
     <h3 style="color: white; margin-top: 0;">💻 Programming Languages</h3>
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,html,css,sass" alt="Languages" />
+    <p style="color: white; font-size: 16px; margin: 10px 0;">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+    </p>
     
     <h3 style="color: white;">🎨 Frontend Development</h3>
-    <img src="https://skillicons.dev/icons?i=react,vue,angular,bootstrap,tailwind" alt="Frontend" />
+    <p style="color: white; font-size: 18px; margin: 15px 0; font-weight: bold;">
+      React • Vue.js • Angular • Bootstrap • Tailwind CSS
+    </p>
     
     <h3 style="color: white;">⚙️ Backend & Database</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase" alt="Backend" />
+    <p style="color: white; font-size: 18px; margin: 15px 0; font-weight: bold;">
+      Node.js • Express • MySQL • MongoDB • Firebase
+    </p>
     
     <h3 style="color: white;">🔧 Tools & Others</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" alt="Tools" />
+    <p style="color: white; font-size: 18px; margin: 15px 0; font-weight: bold;">
+      Git • GitHub • VS Code • Figma • Linux
+    </p>
   </div>
 </div>
 
@@ -130,17 +143,17 @@
 <div align="center">
   <h2>🎯 Current Focus</h2>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <div style="background: linear-gradient(45deg, #667eea, #764ba2); color: white; padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.1); min-width: 200px;">
-      <h3 style="margin: 0 0 10px 0;">🚀 Learning</h3>
-      <p style="margin: 0;">Advanced React Patterns</p>
+    <div style="background: linear-gradient(45deg, #667eea, #764ba2); color: white; padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.1); min-width: 200px;">
+      <h3 style="margin: 0 0 10px 0; color: white;">🚀 Learning</h3>
+      <p style="margin: 0; color: #e2e8f0;">Advanced React Patterns</p>
     </div>
-    <div style="background: linear-gradient(45deg, #f093fb, #f5576c); color: white; padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.1); min-width: 200px;">
-      <h3 style="margin: 0 0 10px 0;">🔧 Building</h3>
-      <p style="margin: 0;">Full Stack Applications</p>
+    <div style="background: linear-gradient(45deg, #f093fb, #f5576c); color: white; padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.1); min-width: 200px;">
+      <h3 style="margin: 0 0 10px 0; color: white;">🔧 Building</h3>
+      <p style="margin: 0; color: #e2e8f0;">Full Stack Applications</p>
     </div>
-    <div style="background: linear-gradient(45deg, #4facfe, #00f2fe); color: white; padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.1); min-width: 200px;">
-      <h3 style="margin: 0 0 10px 0;">🎨 Exploring</h3>
-      <p style="margin: 0;">UI/UX Design Principles</p>
+    <div style="background: linear-gradient(45deg, #4facfe, #00f2fe); color: white; padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.1); min-width: 200px;">
+      <h3 style="margin: 0 0 10px 0; color: white;">🎨 Exploring</h3>
+      <p style="margin: 0; color: #e2e8f0;">UI/UX Design Principles</p>
     </div>
   </div>
 </div>
