@@ -1,163 +1,281 @@
-# Hitarth Shah
+<!-- ==================== HERO BANNER ==================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D10,100:FF7A00&height=220&section=header&text=Hitarth%20Shah&fontColor=F5F7FA&fontSize=48&fontAlignY=38&desc=Co-Founder%20%40%20Creativity%20Coder&descAlignY=60&descSize=16&animation=fadeIn" alt="Hitarth Shah Banner"/>
 
-**Co-Founder of [Creativity Coder](https://creativitycode.com/) | Founder · Builder · Problem Solver**
+<!-- ==================== ANIMATED FOUNDER POSITIONING ==================== -->
+<div align="center">
 
-Building custom software, high-performance web applications, and AI-powered automation systems that help businesses scale, reduce manual overhead, and operate efficiently.
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1500&color=FF7A00&center=true&vCenter=true&width=650&lines=Co-Founder+@+Creativity+Coder;Building+Digital+Products+That+Solve+Real+Problems;Custom+Software+%E2%80%A2+AI+Automation+%E2%80%A2+Business+Systems;Turning+Complex+Workflows+Into+Better+Systems;From+Business+Challenge+%E2%86%92+Product+%E2%86%92+Production;Build+Smart.+Ship+Well.+Improve+Continuously." alt="Hitarth Shah - Founder Positioning" />
 
-[Creativity Coder Website](https://creativitycode.com/) · [LinkedIn](https://www.linkedin.com/in/hitarthshah-/) · [Email](mailto:shahh0919@gmail.com)
+<br/>
 
----
+<!-- ==================== MINIMAL TRUST SIGNALS ==================== -->
+<img src="https://img.shields.io/badge/Co--Founder-Creativity%20Coder-FF7A00?style=flat-square&labelColor=111418" alt="Co-Founder Badge" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=hitarthsh&label=Profile%20Views&color=ff7a00&style=flat-square&labelColor=111418" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/hitarthsh?label=Followers&style=flat-square&color=ff7a00&labelColor=111418" alt="GitHub Followers" />
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to-Building%20%26%20Collaboration-ff7a00?style=flat-square&labelColor=111418" alt="Collaboration Badge" />
 
-## 💼 About Me
+</div>
 
-I am a Co-Founder at **Creativity Coder**, where I bridge the gap between business strategy and technical execution. I don't just write code; I partner with businesses and founders to solve real-world problems, eliminate manual bottlenecks, and build reliable digital systems.
+<br/><br/>
 
-My approach centers on execution speed, usability, and long-term stability. From high-conversion corporate web platforms to custom dashboards and automated backend integrations, I design solutions that drive growth, increase operational efficiency, and deliver verifiable business value.
+<!-- ==================== WHOAMI ==================== -->
+## 👨‍💻 whoami
 
----
+```typescript
+import { CoFounder, SystemBuilder } from "creativity-coder";
 
-## 🚀 About Creativity Coder
+const hitarth: CoFounder & SystemBuilder = {
+  role: "Co-Founder",
+  company: "Creativity Coder",
+  ecosystem: {
+    platforms: ["Digital Products", "Custom Software", "SaaS Systems"],
+    automation: ["Intelligent Workflows", "AI-Powered Pipelines"],
+    operations: ["Operational Dashboards", "Internal Business Tools"]
+  },
+  strategy: [
+    "Aligning Technical Execution with Business Outcomes",
+    "Turning Complex Manual Workflows into Scalable Systems",
+    "Designing High-Performance Frontend & Robust Architectures"
+  ],
+  corePrinciple: "Solve the business problem first. Build the system second."
+};
+```
 
-Creativity Coder helps organizations transition from fragmented, manual workflows to modern, automated digital environments. We design, develop, and deploy tailored technical systems that resolve operational bottlenecks.
+<br/>
 
-Our core focus areas include:
-*   **Web Development & Corporate Identity**: High-performance, SEO-optimized corporate websites, landing pages, and interactive client portals.
-*   **Custom Business Systems**: Tailored administrative dashboards, lead routing platforms, custom CRMs, and internal operations tools.
-*   **AI & Workflow Automation**: API integrations, webhook handlers, and automated data pipelines that eliminate repetitive admin work.
-*   **Digital Transformation**: Audit of manual processes and deployment of software solutions that replace legacy spreadsheets.
+<!-- ==================== BUILDING AT CREATIVITY CODER ==================== -->
+## 🏢 Building at Creativity Coder
 
-*Have a workflow bottleneck or a product idea? Let's discuss it at [creativitycode.com](https://creativitycode.com/).*
-
----
-
-## 🛠️ What We Build
-
-We specialize in designing and engineering components across four critical business layers:
-
-*   **Digital Experiences**: Modern marketing websites, lead generation systems, high-converting landing pages, and responsive client-facing web portals.
-*   **Custom Business Systems**: Admin dashboards, lead routing networks, reporting panels, and internal tools that centralize business data.
-*   **AI & Automation**: Webhook integrations, automated email/Slack notification systems, data sync pipelines, and AI-assisted workflows.
-*   **Product Engineering**: Scalable single-page architectures, secure REST/GraphQL APIs, relational/non-relational database design, and cloud deployments.
-
----
-
-## 📂 Featured Work
-
-Below are structures of production systems I have built and delivered. 
-
-<!-- 
-DEVELOPER NOTE: Replace the placeholders below with real client projects as they are completed. 
-Keep the format consistent: focus on the business problem, your custom solution, and the actual business impact.
--->
-
-### ⚡ Project Showcase 1: [Project Category / Name]
-<!-- REPLACE WITH REAL PROJECT -->
-*A concise, one-sentence summary of the system and its primary business value.*
-
-*   **Problem**: What was the operational bottleneck, business issue, or manual process before this system was built? *(e.g., "The client was manually copying lead data across three platforms, leading to data errors and a 6-hour delay in outreach.")*
-*   **Solution**: What did you build to solve this specific problem? *(e.g., "Engineered an automated lead ingestion system with real-time API integrations, data normalization, and instant Slack notifications.")*
-*   **Key Capabilities**:
-    *   **Capability 1**: Briefly describe a key technical/functional feature.
-    *   **Capability 2**: Describe the frontend interface or user-facing control panel.
-    *   **Capability 3**: Describe the automated integration or background service.
-*   **Impact**: Describe the business result. Use factual descriptions and real outcomes without fabricating metrics. *(e.g., "Completely eliminated manual lead entry, reduced response times to under 30 seconds, and eliminated human transcription errors.")*
-*   **Stack**: React · Node.js · Express · MongoDB · REST APIs
-*   **Links**: [Live System](https://creativitycode.com/) | [Case Study](https://creativitycode.com/) | [Repository](https://github.com/hitarthsh) *(only if public)*
+I build digital products and custom software systems designed around how modern businesses actually operate. Instead of writing code in isolation, I work at the intersection of business strategy, user experience, and technical execution. My focus is on transforming operational challenges into high-performance web applications, automated workflows, and business-critical tools that drive efficiency and scale.
 
 ---
 
-### ⚡ Project Showcase 2: [Project Category / Name]
-<!-- REPLACE WITH REAL PROJECT -->
-*A concise, one-sentence summary of the system and its primary business value.*
+<!-- ==================== WHAT I HELP BUILD ==================== -->
+## 🛠️ What I Help Build
 
-*   **Problem**: What was the operational bottleneck, business issue, or manual process before this system was built?
-*   **Solution**: What did you build to solve this specific problem?
-*   **Key Capabilities**:
-    *   **Capability 1**: Briefly describe a key technical/functional feature.
-    *   **Capability 2**: Describe the frontend interface or user-facing control panel.
-    *   **Capability 3**: Describe the automated integration or background service.
-*   **Impact**: Describe the business result. Use factual descriptions and real outcomes without fabricating metrics.
-*   **Stack**: Next.js · TypeScript · Express · MySQL · Third-Party APIs
-*   **Links**: [Live System](https://creativitycode.com/) | [Case Study](https://creativitycode.com/) | [Repository](https://github.com/hitarthsh) *(only if public)*
-
----
-
-### ⚡ Project Showcase 3: [Project Category / Name]
-<!-- REPLACE WITH REAL PROJECT -->
-*A concise, one-sentence summary of the system and its primary business value.*
-
-*   **Problem**: What was the operational bottleneck, business issue, or manual process before this system was built?
-*   **Solution**: What did you build to solve this specific problem?
-*   **Key Capabilities**:
-    *   **Capability 1**: Briefly describe a key technical/functional feature.
-    *   **Capability 2**: Describe the frontend interface or user-facing control panel.
-    *   **Capability 3**: Describe the automated integration or background service.
-*   **Impact**: Describe the business result. Use factual descriptions and real outcomes without fabricating metrics.
-*   **Stack**: Node.js · Express · Workflow Automation · Webhooks
-*   **Links**: [Live System](https://creativitycode.com/) | [Case Study](https://creativitycode.com/) | [Repository](https://github.com/hitarthsh) *(only if public)*
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 &nbsp;▪&nbsp; Digital Presence</h3>
+      <p>High-performance websites and digital experiences designed for real business goals, with a focus on speed, SEO, and user conversion.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 &nbsp;▪&nbsp; Custom Software</h3>
+      <p>Tailored web applications and bespoke software platforms designed specifically around your unique business workflows and operations.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 &nbsp;▪&nbsp; Intelligent Automation</h3>
+      <p>Automated processes and AI-assisted workflows that sync databases, trigger smart notifications, and eliminate repetitive tasks.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 &nbsp;▪&nbsp; Business Systems</h3>
+      <p>Operational dashboards, custom CRMs, admin panels, and connected data pipelines that give you full control over your operations.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🧠 Operating Principles
+<!-- ==================== CREATIVITY CODER BRAND SECTION ==================== -->
+## 🚀 Creativity Coder
+*Technology built around how businesses actually work.*
 
-These principles guide my approach to engineering and building systems:
+We partner with organizations to build modern infrastructure that simplifies work:
+*   **Digital Products & Platforms**: SEO-optimized marketing sites, custom SaaS architectures, and interactive client portals.
+*   **Custom Operations Software**: Centralized dashboards, lead management systems, custom admin tools, and data hubs.
+*   **Intelligent Process Automation**: AI integration, webhook handlers, cross-platform syncing, and automated notification networks.
+*   **Product Engineering**: Scalable APIs, performant web applications, relational and non-relational database design, and production-ready cloud deployment.
 
-1.  **Solve the Business Problem First**: Technology exists to drive business outcomes. I select architectures based on what solves the client's problem most efficiently, not what is trendy.
-2.  **Design for Actual Workflows**: Great software mirrors the real-world processes of the people using it. I build for usability, clarity, and intuitive flows.
-3.  **Favor Maintainable Simplicity**: Clean, straightforward architectures are easier to maintain, scale, and debug. Over-engineering is a form of technical debt.
-4.  **Automate to Free Up Human Capital**: Repetitive manual tasks are operational bottlenecks. I look for opportunities to automate administrative tasks securely.
-5.  **Ship, Validate, and Iterate**: Production-ready code in the hands of real users yields the best feedback. I prefer incremental, validated releases over long, unverified dev cycles.
-
----
-
-## ⚡ Technical Capabilities
-
-A curated summary of the technology and tools I utilize to build systems:
-
-*   **Frontend & Product**: React · Next.js · TypeScript · JavaScript · CSS3 · HTML5 · Responsive UI/UX
-*   **Backend & Data**: Node.js · Express · MySQL · MongoDB · REST APIs · Database Optimization
-*   **Systems & Automation**: Workflow Automation · AI Integrations · Custom Business Dashboards · Third-Party API Integrations
+<div align="center">
+  <br/>
+  <a href="https://creativitycode.com/" target="_blank"><img src="https://img.shields.io/badge/Explore%20Creativity%20Coder-FF7A00?style=for-the-badge&labelColor=111418" alt="Explore Creativity Coder"/></a>
+</div>
 
 ---
 
-## 📈 Engineering Activity
+<!-- ==================== SELECTED WORK ==================== -->
+## 📁 Selected Work
 
-While my primary focus is delivering production systems for clients and growing Creativity Coder, my public open-source contributions and development activity represent my commitment to continuous execution.
+> Selected client systems and products delivered by **[Creativity Coder](https://creativitycode.com/)**.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hitarthsh&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Hitarth Shah's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitarthsh&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Hitarth Shah's Top Languages"/>
+<table>
+  <thead>
+    <tr>
+      <th width="25%" align="left">System / Product</th>
+      <th width="45%" align="left">Problem & Solution</th>
+      <th width="30%" align="left">Capabilities & Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- REPLACE WITH REAL PROJECT -->
+    <tr>
+      <td>
+        <strong>[Project Name]</strong><br/><br/>
+        <sub>
+          <a href="https://creativitycode.com/" target="_blank">Live Demo</a> &bull; 
+          <a href="https://creativitycode.com/" target="_blank">Case Study</a>
+        </sub>
+      </td>
+      <td>
+        <strong>Challenge:</strong> Describe the operational bottleneck, manual workload, or business challenge that needed to be resolved.<br/><br/>
+        <strong>What We Built:</strong> A detailed overview of the digital product or internal software designed to solve the problem.
+      </td>
+      <td>
+        <strong>Core Features:</strong>
+        <ul>
+          <li>Capability 1</li>
+          <li>Capability 2</li>
+          <li>Capability 3</li>
+        </ul>
+        <strong>Stack:</strong> <code>React</code> &bull; <code>Next.js</code> &bull; <code>Node.js</code><br/>
+        <strong>Proof:</strong> <em>[Verified Outcome Placeholder]</em>
+      </td>
+    </tr>
+    <!-- REPLACE WITH REAL PROJECT -->
+    <tr>
+      <td>
+        <strong>[Project Name]</strong><br/><br/>
+        <sub>
+          <a href="https://creativitycode.com/" target="_blank">Live Demo</a> &bull; 
+          <a href="https://creativitycode.com/" target="_blank">Case Study</a>
+        </sub>
+      </td>
+      <td>
+        <strong>Challenge:</strong> Describe the operational bottleneck, manual workload, or business challenge.<br/><br/>
+        <strong>What We Built:</strong> A detailed overview of the custom application or system built.
+      </td>
+      <td>
+        <strong>Core Features:</strong>
+        <ul>
+          <li>Capability 1</li>
+          <li>Capability 2</li>
+          <li>Capability 3</li>
+        </ul>
+        <strong>Stack:</strong> <code>TypeScript</code> &bull; <code>Express</code> &bull; <code>MySQL</code><br/>
+        <strong>Proof:</strong> <em>[Verified Outcome Placeholder]</em>
+      </td>
+    </tr>
+    <!-- REPLACE WITH REAL PROJECT -->
+    <tr>
+      <td>
+        <strong>[Project Name]</strong><br/><br/>
+        <sub>
+          <a href="https://creativitycode.com/" target="_blank">Live Demo</a> &bull; 
+          <a href="https://creativitycode.com/" target="_blank">Case Study</a>
+        </sub>
+      </td>
+      <td>
+        <strong>Challenge:</strong> Describe the operational bottleneck or workflow process.<br/><br/>
+        <strong>What We Built:</strong> An automation workflow or integration system.
+      </td>
+      <td>
+        <strong>Core Features:</strong>
+        <ul>
+          <li>Capability 1</li>
+          <li>Capability 2</li>
+          <li>Capability 3</li>
+        </ul>
+        <strong>Stack:</strong> <code>Node.js</code> &bull; <code>MongoDB</code> &bull; <code>APIs</code><br/>
+        <strong>Proof:</strong> <em>[Verified Outcome Placeholder]</em>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+<!-- ==================== OPERATING PRINCIPLES ==================== -->
+## 🧠 How I Think About Building
+
+*Core principles that drive system design and project success:*
+
+*   **01 &bull; Understand the real problem** — Focus on the business objective and operational bottleneck, not just the code request.
+*   **02 &bull; Simplify the workflow** — Streamline complex real-world processes before attempting to automate them.
+*   **03 &bull; Design the right system** — Select clean, predictable, and scalable architectures that reduce maintenance overhead.
+*   **04 &bull; Build for real users** — Prioritize intuitive user experience (UX), high responsiveness, and accessibility.
+*   **05 &bull; Automate what should not be manual** — Free up valuable human capacity by eliminating administrative friction and data duplication.
+*   **06 &bull; Ship, measure, improve** — Deploy production-ready code iteratively, measure real usage metrics, and refine constantly.
+
+---
+
+<!-- ==================== ENGINEERING TOOLKIT ==================== -->
+## 🛠️ Engineering Toolkit
+
+> Technology supports the story. Technology is not the story.
+
+*   **Product & Frontend:** React &bull; Next.js &bull; TypeScript &bull; JavaScript
+*   **Backend & Systems:** Node.js &bull; Express &bull; REST APIs
+*   **Data & Storage:** MySQL &bull; MongoDB
+*   **DevOps & Workflow:** Git &bull; GitHub &bull; Automated Workflows
+
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mysql,mongodb,git,github&theme=dark" alt="Hitarth Shah's Engineering Toolkit" />
+
+---
+
+<!-- ==================== CONNECT ==================== -->
+## 🤝 Connect
+
+<p align="left">
+  <a href="https://creativitycode.com/" target="_blank"><img src="https://img.shields.io/badge/Website-Creativity%20Coder-FF7A00?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=111418" alt="Website"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/hitarthshah-react/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Hitarth%20Shah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111418" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://github.com/hitarthsh" target="_blank"><img src="https://img.shields.io/badge/GitHub-hitarthsh-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111418" alt="GitHub"/></a>&nbsp;
+  <a href="mailto:shahh0919@gmail.com"><img src="https://img.shields.io/badge/Email-shahh0919%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111418" alt="Email"/></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hitarthsh&theme=react-dark&hide_border=true" alt="Hitarth Shah's GitHub Activity Graph"/>
-</p>
+---
+
+<!-- ==================== ENGINEERING ACTIVITY ==================== -->
+## 📊 Engineering Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hitarthsh&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF7A00&icon_color=FF7A00&text_color=9CA3AF&bg_color=111418" height="150" alt="Hitarth Shah's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitarthsh&layout=compact&theme=tokyonight&hide_border=true&title_color=FF7A00&icon_color=FF7A00&text_color=9CA3AF&bg_color=111418" height="150" alt="Hitarth Shah's Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hitarthsh&theme=react-dark&bg_color=111418&color=FF7A00&line=FF7A00&point=FFFFFF&hide_border=true&area=true" width="95%" alt="Hitarth Shah's GitHub Activity Graph" />
+</div>
 
 ---
 
-## 🎯 Current Focus
+<!-- ==================== CONTRIBUTION SNAKE ==================== -->
+## 🐍 Contribution Activity
 
-*   **Growing Creativity Coder**: Collaborating with founders and businesses to build web platforms and custom workflows.
-*   **Workflow Automation**: Architecting serverless webhooks and automated pipelines to reduce administrative overhead.
-*   **System Optimization**: Standardizing backend APIs and modern frontend architectures for low latency and high scalability.
-
----
-
-## 🤝 Let's Build Something Useful
-
-Have a complex operational workflow, a custom software product idea, or a manual spreadsheet system that needs to be automated? Let’s talk about building the right solution.
-
-*   🌐 **Official Website**: [creativitycode.com](https://creativitycode.com/)
-*   💼 **LinkedIn**: [linkedin.com/in/hitarthshah-](https://www.linkedin.com/in/hitarthshah-/)
-*   📧 **Direct Email**: [shahh0919@gmail.com](mailto:shahh0919@gmail.com)
-*   📂 **GitHub**: [github.com/hitarthsh](https://github.com/hitarthsh)
-
----
-
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hitarthsh/hitarthsh/main/dist/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hitarthsh/hitarthsh/main/dist/github-contribution-grid-snake.svg">
     <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/hitarthsh/hitarthsh/main/dist/github-contribution-grid-snake.svg" width="60%">
   </picture>
-</p>
+</div>
+
+---
+
+<!-- ==================== CURRENTLY BUILDING ==================== -->
+## 🚀 Currently Building
+
+*   **Scaling Creativity Coder**: Deploying custom software architectures and intelligent automation systems for our client partners.
+*   **Intelligent Workflows**: Engineering robust webhook listen pathways, API routing configurations, and custom AI integrations.
+*   **Internal Product Toolkits**: Developing reusable dashboard UI systems and CRM integrations to accelerate platform delivery times.
+
+---
+
+<!-- ==================== CTA & FOOTER ==================== -->
+## Let's Build Something That Works
+
+Have a product idea, complex workflow, or business process that needs a better system? Let's turn it into something practical, scalable, and ready to use.
+
+Explore [Creativity Coder](https://creativitycode.com/) or reach out directly via [LinkedIn](https://www.linkedin.com/in/hitarthshah-react/).
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A00,100:0B0D10&height=120&section=footer" alt="footer"/>
+<div align="center"><sub>Hitarth Shah &bull; Co-Founder, Creativity Coder &bull; Build with purpose. Ship with clarity.</sub></div>

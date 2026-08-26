@@ -5,7 +5,6 @@ on:
     - cron: "0 */12 * * *" # Runs every 12 hours
   workflow_dispatch:
 
-# Make sure the workflow has the necessary permissions
 permissions:
   contents: write
 
@@ -15,24 +14,21 @@ jobs:
 
     steps:
       # Checkout the repository content
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
-          # Ensure you fetch the full history for accurate contribution graph
           fetch-depth: 0
 
-      # Generate the snake animation
+      # Generate the snake animation SVG files
       - uses: Platane/snk@v3
-        id: snake-gif
+        id: snake-svg
         with:
-          github_user_name: hitarthsh # Replace with your GitHub username
-          # Authentication token to prevent rate limiting
+          github_user_name: hitarthsh
           github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      # Deploy to GitHub
+      # Commit and push files to GitHub main branch
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9
         with:
