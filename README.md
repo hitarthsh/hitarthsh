@@ -4,7 +4,7 @@
 
 Building custom software, high-performance web applications, and AI-powered automation systems that help businesses scale, reduce manual overhead, and operate efficiently.
 
-[Creativity Coder Website](https://creativitycode.com/) · [LinkedIn](https://www.linkedin.com/in/hitarthshah-react/) · [Email](mailto:shahh0919@gmail.com)
+[Creativity Coder Website](https://creativitycode.com/) · [LinkedIn](https://www.linkedin.com/in/hitarthshah-/) · [Email](mailto:shahh0919@gmail.com)
 
 ---
 
@@ -148,7 +148,7 @@ While my primary focus is delivering production systems for clients and growing 
 Have a complex operational workflow, a custom software product idea, or a manual spreadsheet system that needs to be automated? Let’s talk about building the right solution.
 
 *   🌐 **Official Website**: [creativitycode.com](https://creativitycode.com/)
-*   💼 **LinkedIn**: [linkedin.com/in/hitarthshah-react](https://www.linkedin.com/in/hitarthshah-react/)
+*   💼 **LinkedIn**: [linkedin.com/in/hitarthshah-](https://www.linkedin.com/in/hitarthshah-/)
 *   📧 **Direct Email**: [shahh0919@gmail.com](mailto:shahh0919@gmail.com)
 *   📂 **GitHub**: [github.com/hitarthsh](https://github.com/hitarthsh)
 
