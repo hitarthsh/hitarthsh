@@ -99,7 +99,7 @@ We partner with organizations to build modern infrastructure that simplifies wor
 ---
 
 <!-- ==================== SELECTED WORK ==================== -->
-## 📁 Selected Work
+<!-- ## 📁 Selected Work
 
 > Selected client systems and products delivered by **[Creativity Coder](https://creativitycode.com/)**.
 
@@ -112,7 +112,6 @@ We partner with organizations to build modern infrastructure that simplifies wor
     </tr>
   </thead>
   <tbody>
-    <!-- REPLACE WITH REAL PROJECT -->
     <tr>
       <td>
         <strong>[Project Name]</strong><br/><br/>
@@ -136,7 +135,6 @@ We partner with organizations to build modern infrastructure that simplifies wor
         <strong>Proof:</strong> <em>[Verified Outcome Placeholder]</em>
       </td>
     </tr>
-    <!-- REPLACE WITH REAL PROJECT -->
     <tr>
       <td>
         <strong>[Project Name]</strong><br/><br/>
@@ -160,7 +158,6 @@ We partner with organizations to build modern infrastructure that simplifies wor
         <strong>Proof:</strong> <em>[Verified Outcome Placeholder]</em>
       </td>
     </tr>
-    <!-- REPLACE WITH REAL PROJECT -->
     <tr>
       <td>
         <strong>[Project Name]</strong><br/><br/>
@@ -185,7 +182,7 @@ We partner with organizations to build modern infrastructure that simplifies wor
       </td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 ---
 
